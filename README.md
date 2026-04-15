@@ -19,4 +19,5 @@ As a perfectionist developer, I focused on applying:
 ## 🚀 How to Run
 1. Make sure you have [Node.js](https://nodejs.org/) installed.
 2. Clone this repository:
-  git clone [https://github.com/xtheredviper/hero-level-classifier.git](https://github.com/xtheredviper/hero-level-classifier.git) 
+ ```bash
+git clone [https://github.com/xtheredviper/hero-level-classifier.git](https://github.com/xtheredviper/hero-level-classifier.git)
